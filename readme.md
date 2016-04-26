@@ -1,8 +1,7 @@
-#[Partial Application](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch4.md) with Named Parameters [![Build Status](https://travis-ci.org/hermanya/partial-application-with-named-parameters.svg?branch=master)](https://travis-ci.org/hermanya/partial-application-with-named-parameters)
-
+#[Partial Application](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch4.md) with Named Parameters
 ![screenshot](screenshot.png)
 
-## usage
+## Usage
 
 First have a function, that destructs its first and only parameter.
 This module will make you able to partially apply named parameters for that function.
