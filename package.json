@@ -1,0 +1,35 @@
+{
+  "name": "partial-application-with-named-parameters",
+  "version": "0.0.0",
+  "description": "Just an idea",
+  "license": "MIT",
+  "repository": "hermanya/partial-application-with-named-parameters",
+  "author": {
+    "name": "Herman Starikov",
+    "email": "herman.starikov@uxpsystems.com",
+    "url": "hermanya.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && nyc ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "currying",
+    "partial application",
+    "named parameters",
+    "desctructive assignment"
+  ],
+  "dependencies": {
+    "shallow-equals": "0.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0",
+    "nyc": "^6.4.0"
+  }
+}
