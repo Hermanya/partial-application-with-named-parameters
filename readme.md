@@ -1,13 +1,6 @@
-# partial-application-with-named-parameters [![Build Status](https://travis-ci.org/hermanya/partial-application-with-named-parameters.svg?branch=master)](https://travis-ci.org/hermanya/partial-application-with-named-parameters)
+#[Partial Application](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch4.md) with Named Parameters [![Build Status](https://travis-ci.org/hermanya/partial-application-with-named-parameters.svg?branch=master)](https://travis-ci.org/hermanya/partial-application-with-named-parameters)
 
-> My classy module
-
-
-## Install
-
-```
-$ npm install --save partial-application-with-named-parameters
-```
+![screenshot](screenshot.png)
 
 ## usage
 
