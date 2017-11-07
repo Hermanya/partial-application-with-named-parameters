@@ -24,9 +24,7 @@
     "named parameters",
     "desctructive assignment"
   ],
-  "dependencies": {
-    "shallow-equals": "0.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ava": "^0.14.0",
     "xo": "^0.14.0",
